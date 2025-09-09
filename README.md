@@ -1,2 +1,2 @@
 # Landing-Page
-A Simple project using Flexbox
+A simple project using Flexbox
